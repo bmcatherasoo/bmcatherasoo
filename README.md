@@ -16,4 +16,4 @@ Here are some ideas to get you started:
 -->
 # bmcatherasoo
 
-[![bmcatherasoo github stats](https://github-readme-stats.vercel.app/api?username=bmcatherasoo&show_icons=true&count_private=false&layout=compact&hide_border=true)](https://github.com/bmcatherasoo?tab=repositories)[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bmcatherasoo&layout=compact&langs_count=10&hide=c%23,powershell&hide_border=true)](https://github.com/bmcatherasoo?tab=repositories)
+[![bmcatherasoo github stats](https://github-readme-stats.vercel.app/api?username=bmcatherasoo&show_icons=true&count_private=false&theme=gradient&hide_border=true)](https://github.com/bmcatherasoo?tab=repositories)[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bmcatherasoo&langs_count=10&hide_border=true)](https://github.com/bmcatherasoo?tab=repositories)
